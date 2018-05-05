@@ -10,6 +10,9 @@ Polarity is a text scanning application used for sentiment analysis for the 2016
 ## What I hope to do
 I hope to be able to add features like PoS Tagging and individual scores to each sentimental word to further my project and research.
 
+## Errors
+Program is currently not able to find the proper directory of corpora and corpora database needs to be larger
+
 ## Team
 Annie Pham (apham024@ucr.edu) <br/>
 Jon Willits (jon.willits@ucr.edu)
